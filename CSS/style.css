@@ -109,22 +109,22 @@ table {
 }
 
 
-.header h1{
+.header-gallery h1{
 	float: left;
 	padding: 15px 0;
 	color: #372327 
 }
-.header ul{
+.header-gallery ul{
 	float: right;
 }
-.header ul li{
+.header-gallery ul li{
 	display: inline-block;
 }
-.header ul li a{
+.header-gallery ul li a{
 	padding: 25px 20px;
 	display: inline-block;
 }
-.header ul li a:hover{
+.header-gallery ul li a:hover{
 	background-color:#008080; 
 	color: white;
 }
