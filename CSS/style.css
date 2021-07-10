@@ -107,3 +107,28 @@ table {
 #gallery h2{
 	color: #fff;
 }
+
+
+.header h1{
+	float: left;
+	padding: 15px 0;
+	color: #372327 
+}
+.header ul{
+	float: right;
+}
+.header ul li{
+	display: inline-block;
+}
+.header ul li a{
+	padding: 25px 20px;
+	display: inline-block;
+}
+.header ul li a:hover{
+	background-color:#008080; 
+	color: white;
+}
+.active{
+	background-color:#008080; 
+	color: white;
+}
